@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1685542660 source:c:\users\fabri\downloads\programação\projeto 2\projeto 2\t2-2582708-y.c
+	"trabalho2.h"
+	"wavfile.h"
+
+1685539755 c:\users\fabri\downloads\programação\projeto 2\projeto 2\trabalho2.h
+
+1685539755 c:\users\fabri\downloads\programação\projeto 2\projeto 2\wavfile.h
+	<stdio.h>
+
+1685539754 source:c:\users\fabri\downloads\programação\projeto 2\projeto 2\teste1_ganho.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1685539755 source:c:\users\fabri\downloads\programação\projeto 2\projeto 2\wavfile.c
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	"wavfile.h"
+
+1685539754 source:c:\users\fabri\downloads\programação\projeto 2\projeto 2\teste2_mistura.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1685539754 source:c:\users\fabri\downloads\programação\projeto 2\projeto 2\teste3_inverte.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1685539755 source:c:\users\fabri\downloads\programação\projeto 2\projeto 2\teste4_atraso.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1685734010 source:c:\users\fabri\downloads\programação\projeto 2\projeto-2\t2-2582708-y.c
+	"trabalho2.h"
+	"wavfile.h"
+
+1685733134 c:\users\fabri\downloads\programação\projeto 2\projeto-2\trabalho2.h
+
+1685539755 c:\users\fabri\downloads\programação\projeto 2\projeto-2\wavfile.h
+	<stdio.h>
+
+1685539755 source:c:\users\fabri\downloads\programação\projeto 2\projeto-2\teste4_atraso.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1685539755 source:c:\users\fabri\downloads\programação\projeto 2\projeto-2\wavfile.c
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	"wavfile.h"
+
+1685732294 source:c:\users\fabri\downloads\programação\projeto 2\projeto-2\teste1_ganho.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1685539754 source:c:\users\fabri\downloads\programação\projeto 2\projeto-2\teste2_mistura.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1685539754 source:c:\users\fabri\downloads\programação\projeto 2\projeto-2\teste3_inverte.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1685539755 source:c:\users\fabri\downloads\programação\projeto 2\projeto-2\teste5_media.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1685539755 source:c:\users\fabri\downloads\programação\projeto 2\projeto-2\teste6_ecos.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
